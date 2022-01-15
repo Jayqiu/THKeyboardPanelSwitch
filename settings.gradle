@@ -3,9 +3,6 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven {
-            url "https://raw.githubusercontent.com/Jayqiu/THKeyboardPanelSwitch/main"
-        }
         maven { url 'https://www.jitpack.io' }
     }
 }
